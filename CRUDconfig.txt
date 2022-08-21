@@ -1,0 +1,21 @@
+criar pasta client e server
+
+client
+
+npx create-react-app . 
+
+comando para inicializar ja com as dependencias instaladas -> "yarn start" 
+
+
+yarn add axios
+
+
+server
+comando para inicializar ja com as dependencias instaladas -> "node index.js"
+
+
+npm init
+npm install mysql express 
+npm install cors
+
+
