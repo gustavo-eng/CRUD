@@ -2,7 +2,7 @@ const express = require('express') // Loading. . .
 const app = express()
 const mysql = require('mysql') 
 const cors = require('cors');
-const e = require('express');
+
 
 app.use(cors());
 app.use(express.json());
