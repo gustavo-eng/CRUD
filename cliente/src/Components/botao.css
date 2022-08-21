@@ -1,0 +1,25 @@
+button {
+    border-radius: 9px;
+    border: 1px solid blue;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    height: 2rem;
+    display: block;
+    align-items: center;
+    align-content: center;
+   
+}
+
+button:hover {
+    background-color: rgb(23, 31, 116);
+    color: white;
+    text-transform: uppercase;
+    transition: all 0.8s;
+}
+
+
+/* 
+Padding parte interna 
+Margin parte externa 
+*/ 

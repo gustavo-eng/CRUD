@@ -1,0 +1,82 @@
+.information {
+    padding-top: 8rem;
+    color: white;
+    text-transform: uppercase;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: linear-gradient(90deg, rgb(77, 77, 205), rgb(44, 30, 174));
+}
+
+.information input {
+    border-radius: 7px;
+    background-color: rgb(206, 199, 199);
+    width: 20rem;
+    height: 1.8rem;    
+}
+
+
+
+
+.information div {
+    display: block;
+    color: white;
+    
+}
+
+
+button:hover {
+    background-color: rgb(43, 53, 168);
+    color: white;
+    text-transform: uppercase;
+    transition: all 0.8s;
+}
+
+.btn {
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+.produtos {
+    width: 700px;
+    height: 330px;
+    border: 2px solid rgb(144, 144, 220); 
+    display: flex;
+    padding: 7px;
+    
+}
+
+h3 {
+    margin: 15px;
+    display: inline-block;
+}
+
+
+
+
+.produtos {
+   /*  border: 1px solid red; */
+}
+
+.updating {
+    /* border: 1px solid rgb(34, 128, 38); */ 
+    display: inline-block;
+    height: 65px;
+    margin-left: 20rem;
+    padding-left: 5px;
+}
+
+
+.updating button {
+    margin-left: 273px;
+}
+
+
+.deletar {
+    margin-left: 125px !important;
+
+}
+
+
+
+
